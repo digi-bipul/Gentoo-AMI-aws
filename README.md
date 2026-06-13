@@ -1,9 +1,3 @@
-Here is a gorgeous, ultra-minimal, fully-optimized README ready to be copied directly into your GitHub repository as README.md. It reflects all the hard-earned lessons, kernel constraints, and pure anti-bloat philosophy from our trial-and-error sessions.
-```markdown
-<div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Gentoo_Linux_logo_matte.svg" alt="Gentoo Logo" width="160" />
-
 # ⚡ Gentoo-AWS-Nitro
 **The Ultimate, Zero-Bloat, Hyper-Optimized Gentoo AMI Guide for AWS EC2**
 
